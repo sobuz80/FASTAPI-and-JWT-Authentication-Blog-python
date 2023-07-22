@@ -40,4 +40,5 @@ Environment step
      
 Postman Screenshot 
      (Comments)  
+      ![all text](https://github.com/sobuz80/FASTAPI-and-JWT-Authentication-Blog-python/blob/main/install/screenshot/Comments/CommentsBlogPosts.png)
  
