@@ -22,4 +22,14 @@ Environment step
      3.Step :All Blog Posts (accesstoken To Send BlogPost)
      4.Step :Comments
 
-    
+ Postman Screenshot 
+     (Auth)
+     ![all text](https://github.com/sobuz80/FASTAPI-and-JWT-Authentication-Blog-python/blob/main/install/screenshot/Auth/SignUp.png)
+     ![all text](https://github.com/sobuz80/FASTAPI-and-JWT-Authentication-Blog-python/blob/main/install/screenshot/Auth/Login.png)
+Postman Screenshot 
+     (All users)
+Postman Screenshot 
+     (All Blog Posts (accesstoken To Send BlogPost))
+Postman Screenshot 
+     (Comments)  
+ 
