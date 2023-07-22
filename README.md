@@ -22,14 +22,22 @@ Environment step
      3.Step :All Blog Posts (accesstoken To Send BlogPost)
      4.Step :Comments
 
- Postman Screenshot 
-     (Auth)
+ **Postman Screenshot 
+     -(Auth)
      ![all text](https://github.com/sobuz80/FASTAPI-and-JWT-Authentication-Blog-python/blob/main/install/screenshot/Auth/SignUp.png)
      ![all text](https://github.com/sobuz80/FASTAPI-and-JWT-Authentication-Blog-python/blob/main/install/screenshot/Auth/Login.png)
-Postman Screenshot 
-     (All users)
-Postman Screenshot 
-     (All Blog Posts (accesstoken To Send BlogPost))
+**Postman Screenshot 
+     -(All users)
+    ![all text](https://github.com/sobuz80/FASTAPI-and-JWT-Authentication-Blog-python/blob/main/install/screenshot/All%20users/Get%20All%20User.png)
+**Postman Screenshot 
+    -(All Blog Posts (accesstoken To Send BlogPost))
+     ![all text](https://github.com/sobuz80/FASTAPI-and-JWT-Authentication-Blog-python/blob/main/install/screenshot/All%20Blog%20Posts/BlogPosts.png)
+     ![all text](https://github.com/sobuz80/FASTAPI-and-JWT-Authentication-Blog-python/blob/main/install/screenshot/All%20Blog%20Posts/AllGetBlogPosts.png)
+     ![all text](https://github.com/sobuz80/FASTAPI-and-JWT-Authentication-Blog-python/blob/main/install/screenshot/All%20Blog%20Posts/DeleteBlogPosts.png)
+     ![all text](https://github.com/sobuz80/FASTAPI-and-JWT-Authentication-Blog-python/blob/main/install/screenshot/All%20Blog%20Posts/SingleBlogPosts.png)
+
+    
+     
 Postman Screenshot 
      (Comments)  
  
